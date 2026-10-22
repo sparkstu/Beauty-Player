@@ -1,0 +1,5 @@
+build/
+.vs/
+*.user
+*.log
+third_party
